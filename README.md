@@ -1,5 +1,5 @@
 Information collected from you via Facebook and other paid advertising:
-BackNine may collect your name, email, phone, and national producer number from Facebook Lead Ads and other paid advertising. This information will not be shared with third parties without your express written consent. 
+BackNine may collect your name, email, and phone number from Facebook Lead Ads and other paid advertising. This information will not be shared with third parties without your express written consent. 
 
 Information we collect from you:
 Name
